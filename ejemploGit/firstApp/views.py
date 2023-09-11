@@ -21,7 +21,7 @@ def vista1(request):
     </style>
     <div class="banner">
         <h1 class="fuente-especial">
-            Bienvenido a la app2!
+            Bienvenido a la app1!
         </h1>
     </div>
     """
