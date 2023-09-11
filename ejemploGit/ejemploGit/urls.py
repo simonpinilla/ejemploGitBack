@@ -22,4 +22,5 @@ from secondApp import views as v2
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('vista1/', v1.vista1),
+    path('vista2/', v2.vista2),
 ]
